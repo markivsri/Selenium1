@@ -12,7 +12,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 public class HomePage {
 
 	public static void main(String[] args) throws MalformedURLException {
-		
+		//tttt
 		System.setProperty("webdriver.chrome.driver", "E:\\Automation\\Drivers for selenium\\chromedriver.exe");
 		WebDriver objWebDriver = new ChromeDriver();
 		objWebDriver.get("https://www.amazon.in");
